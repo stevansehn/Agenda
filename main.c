@@ -8,7 +8,7 @@ int main ()
 {
 	int select;
 	char input [20];
-	struct Contato ctt;
+	Contato ctt;
 
 	// loop
 	while(1)
