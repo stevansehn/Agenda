@@ -23,7 +23,7 @@ int main ()
 		{
 			case 1:
 				system("clear");
-				printf("\t\tBuscar contato:\n\n");
+				printf("\t\tBuscar contatos:\n\n");
 				printf("Nome: ");
 				scanf("%s",input);
 				//pesquisar na agenda e rtoranr resultados
