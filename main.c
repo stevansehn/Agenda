@@ -38,7 +38,6 @@ int main ()
 				
 				printf("telefone: ");
 				scanf("%s",ctt.telefone);
-				q
 				printf("email: ");
 				scanf("%s",ctt.email);
 
