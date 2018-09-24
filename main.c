@@ -31,7 +31,7 @@ int main ()
 
 			case 2:
 				system("clear");
-				printf("\t\tAdicionar contato:\n\n");
+				printf("\t\tAdicionar pessoas:\n\n");
 				
 				printf("nome: ");
 				scanf("%s",ctt.nome);
