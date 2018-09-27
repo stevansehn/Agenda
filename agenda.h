@@ -13,6 +13,8 @@ typedef struct Contatos
 
 int adicionar(Contato c);
 
+int campo_cidade(string s);
+
 int remover(Contato c);
 
 int buscar(char* s);
